@@ -13,7 +13,6 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasnny&theme=dark&layout=compact&langs_count=6"" width="49%" />
 </p>
 
 <p align='center'> 
